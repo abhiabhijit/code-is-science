@@ -16,5 +16,9 @@
 <title>gitter</title>
 <path d="M11.335 5.335h2.665v26.665h-2.665v-26.665zM20.667 5.335v26.665h-2.667v-26.665h2.667zM4.667 0h2.668v20h-2.668v-20zM24.667 5.335h2.667v14.665h-2.667v-14.665z"></path>
 </symbol>
+  <symbol id="icon-phone" viewBox="0 0 32 32">
+<title>phone</title>
+<path d="M22 20c-2 2-2 4-4 4s-4-2-6-4-4-4-4-6 2-2 4-4-4-8-6-8-6 6-6 6c0 4 4.109 12.109 8 16s12 8 16 8c0 0 6-4 6-6s-6-8-8-6z"></path>
+</symbol>
 </defs>
 </svg>
